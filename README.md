@@ -17,8 +17,8 @@ This challenge is designed based on the provided template from Frontend Mentor w
 
 ### Links
 
--   Solution URL: [https://github.com/Albrt78/frontend_mentor_project/tree/main/Blog%20Preview%20Card]
--   Live Site URL: [https://eclectic-mandazi-3c7310.netlify.app/]
+-   Solution URL: [Blog Preview Card](https://github.com/Albrt78/blogpreviewcard.github.io)
+-   Live Site URL: [Blog Preview Card](https://albrt78.github.io/blogpreviewcard.github.io/)
 
 ### Built with
 
